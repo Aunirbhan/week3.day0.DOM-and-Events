@@ -6,4 +6,4 @@
    - If you're having trouble getting the mouse coordinate, try looking into [`.clientX` and `.clientY`](https://www.w3schools.com/jsref/event_clientx.asp)
      - *Note: be sure to account for the "event" object that is passed to all event listener callbacks*
      - *Tip: You'll want to use the number from `.clientX` and `.clientY`, but add "px" at the end when altering the images's `.left` and `.top` properties*
-3. Bonus: Instead of using the same image, have a random poro image pop up!
+3. Bonus: Instead of using the same image, have a random poro image pop up! 
